@@ -24,6 +24,7 @@ Welkom op mijn GitHub-profiel. Hier vind je een overzicht van mijn digitale vaar
     * [Universiteit van Helsinki - Java Programming II](https://certificates.mooc.fi/validate/crzq4x0mq9) (3 juni 2024)
     * [Universiteit van Helsinki - Programming MOOC 2024, Advanced Course in Programming](https://certificates.mooc.fi/validate/fdfzkawodnf) (14 juni 2024)
     * [Universiteit van Helsinki - Data Analysis with Python](https://courses.mooc.fi/certificates/validate/dv9jewd5rsutvrm) (27 september 2024)
+    * [freeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/certification/brambo3004/scientific-computing-with-python-v7) (22 oktober 2024)
 
 ### Meer informatie
 
